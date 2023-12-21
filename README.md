@@ -4,6 +4,8 @@ Hi! I’m Jessica Valarezo, and I studied computer science and learned programmi
 
 I love making computer science and programming fun, approachable, and relevant. I can help with solidifying foundational skills needed for programming and thinking about programming concepts in new ways, both increasing confidence! At its best, programming is a way to explore creative and personal interests. 
 
-I teach and tutor programming, data analysis, and computer science at various levels (7th grade and older!) and can support students working on projects in these areas. My languages of expertise are Python, Java, SQL, R, React, Javascript, HTML, and CSS. If you are interested in learning more or are looking for a tutor, please don't hesitate to reach out: valarezo.jessica@gmail.com
+I teach and tutor programming, data analysis, and computer science at various levels (7th grade and older!) and can support students working on projects in these areas. My languages of expertise are Python, Java, SQL, R, React, Javascript, HTML, and CSS. 
+
+If you are interested in learning more or are looking for a tutor, please don't hesitate to reach out: *valarezo.jessica@gmail.com*
 
 [LinkedIn](https://www.linkedin.com/in/jessicavalarezo/)
