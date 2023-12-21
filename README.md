@@ -6,6 +6,6 @@ I love making computer science and programming fun, approachable, and relevant. 
 
 I teach and tutor programming, data analysis, and computer science at various levels (7th grade and older!) and can support students working on projects in these areas. My languages of expertise are Python, Java, SQL, R, React, Javascript, HTML, and CSS. 
 
-If you are interested in learning more or are looking for a tutor, please don't hesitate to reach out: **valarezo.jessica@gmail.com**
+*If you are interested in learning more or are looking for a tutor, please don't hesitate to reach out:* **valarezo.jessica@gmail.com**
 
 [LinkedIn](https://www.linkedin.com/in/jessicavalarezo/)
